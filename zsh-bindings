@@ -1,0 +1,3 @@
+# Search in hisory with Up/Down
+bindkey "\e[A" history-beginning-search-backward
+bindkey "\e[B" history-beginning-search-forward
